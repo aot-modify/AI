@@ -1,0 +1,11 @@
+Context
+
+-------------------------------------------------------------------------------------------
+create PRD (Product Requirement Document) for this app above.
+	1. steamlit
+	2. mongodb
+
+เริ่มจาก UI 
+ตามด้วย Data Model ==> Mock Data (Json)
+application logic
+Vertical slice
